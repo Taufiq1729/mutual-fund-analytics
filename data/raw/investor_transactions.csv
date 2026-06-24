@@ -1,0 +1,6 @@
+investor_id,date,transaction_type,amount,kyc_status
+INV001,05/01/23,sip,5000,verified
+INV002,2023-01-06,LUMPSUM,-100,KYC_VERIFIED
+INV003,2023-01-07,Redemption,0,pending
+INV004,2023-01-08,lump sum,10000,verified
+INV005,2023-01-09,redeem,2500,rejected

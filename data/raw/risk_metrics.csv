@@ -1,0 +1,11 @@
+amfi_code,scheme_name,alpha,beta,sharpe_ratio,std_deviation,sortino_ratio,max_drawdown_pct,r_squared
+119551,SBI Bluechip Direct,1.25,0.95,0.82,14.32,1.1,-18.5,0.94
+120503,ICICI Bluechip Direct,1.48,0.98,0.91,13.87,1.22,-16.2,0.96
+118632,Nippon Large Cap Direct,0.98,1.02,0.74,15.1,0.98,-21.3,0.93
+119092,Axis Bluechip Direct,2.1,0.88,1.05,12.45,1.38,-14.8,0.91
+120841,Kotak Bluechip Direct,1.35,0.93,0.86,13.2,1.15,-17.1,0.92
+125497,HDFC Top 100 Direct,1.02,1.0,0.79,14.9,1.05,-19.8,0.95
+118989,Mirae Large Cap Direct,1.75,0.91,0.97,12.8,1.28,-15.5,0.93
+120594,DSP Top 100 Direct,0.88,1.05,0.7,16.2,0.92,-23.1,0.9
+118825,Franklin Bluechip Direct,0.65,1.08,0.62,17.5,0.8,-25.4,0.89
+119775,UTI Mastershare Direct,1.12,0.97,0.81,14.1,1.08,-18.9,0.94

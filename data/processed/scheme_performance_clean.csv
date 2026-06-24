@@ -1,0 +1,7 @@
+amfi_code,return_1yr,return_3yr,return_5yr,expense_ratio,return_1yr_anomaly,return_3yr_anomaly,return_5yr_anomaly,expense_ratio_valid
+120503,12.5,34.2,,1.5,False,False,False,True
+120504,500.0,-200.0,45.0,3.5,True,True,False,False
+120505,,22.1,30.0,0.05,False,False,False,False
+120506,18.4,42.7,68.5,1.2,False,False,False,True
+120507,10.2,28.5,55.3,1.8,False,False,False,True
+120508,15.0,35.0,60.0,1.1,False,False,False,True
